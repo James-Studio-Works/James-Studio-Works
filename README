@@ -1,0 +1,265 @@
+<div align="center">
+
+# `> JAMES_BENJAMIN.exe`
+
+### <code>ML & BACKEND DEVELOPER</code>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami+%3D+james_benjamin;status+%3D+BUILDING+5MINCHAT;mode+%3D+LEARNING+%2F+CODING+%2F+DEBUGGING;stack+%3D+MERN+%2B+SOCKET.IO)
+
+```text
+ ███████████████████████████████████████████████████████████
+ █  SYSTEM ONLINE                                            █
+ █  USER    : jamesBenjamin-2007                            █
+ █  MODE    : BUILDING                                      █
+ █  FOCUS   : AI • ML • BACKEND • FULL STACK                █
+ █  STATUS  : LEARNING / CODING / DEBUGGING                █
+ ███████████████████████████████████████████████████████████
+```
+
+`[ ACCESS GRANTED ]`  `>_`  `[ DEVELOPER MODE ]`
+
+[![Portfolio](https://img.shields.io/badge/PROJECT-5minchat-00FF00?style=for-the-badge&logo=socketdotio&logoColor=black)](https://5minchat.online)
+[![GitHub followers](https://img.shields.io/github/followers/jamesBenjamin-2007?style=for-the-badge&color=00FF00&labelColor=000000)](https://github.com/jamesBenjamin-2007)
+[![Profile Views](https://komarev.com/ghpvc/?username=jamesBenjamin-2007&style=for-the-badge&color=00FF00&label=VISITORS)](https://github.com/jamesBenjamin-2007)
+
+</div>
+
+---
+
+## `> whoami`
+
+```bash
+$ whoami
+
+james_benjamin
+
+$ cat profile.txt
+
+ROLE     = ML & Backend Developer
+INTEREST = Machine Learning / AI / Backend / Full Stack
+MINDSET  = Learn -> Build -> Debug -> Repeat
+MISSION  = Build software that solves real problems
+```
+
+> `Code is not just what I do. It's how I think.`
+
+---
+
+## `> ls ./skills`
+
+<details>
+<summary><b>▸ click to expand skill tree</b></summary>
+
+```text
+┌── LANGUAGES
+│   ├── Python
+│   ├── Java
+│   ├── JavaScript
+│   ├── TypeScript
+│   └── SQL
+│
+├── AI / MACHINE LEARNING
+│   ├── Machine Learning
+│   ├── Pandas
+│   ├── NumPy
+│   └── Scikit-learn
+│
+├── WEB
+│   ├── HTML
+│   ├── CSS
+│   ├── React
+│   ├── Vite
+│   └── Tailwind CSS
+│
+├── BACKEND
+│   ├── Node.js
+│   ├── Express
+│   ├── REST APIs
+│   ├── Socket.IO
+│   ├── Supabase
+│   └── PostgreSQL
+│
+└── TOOLS
+    ├── Git
+    ├── GitHub
+    ├── VS Code
+    ├── Render
+    ├── Vercel
+    └── Cloudinary
+```
+
+</details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesBenjamin-2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)
+
+---
+
+## `> ./projects`
+
+### `01` ⏱️ `5minchat`
+
+```text
+PROJECT     : 5minchat
+TYPE        : Anonymous timed chat platform
+STATUS      : LIVE
+```
+
+Talk to a stranger for exactly 5 minutes — no profiles, no history, no persistent
+identity. Built around a server-authoritative matchmaking engine and timer, layered
+with a full social platform: posts, follows, comments, and Instagram-style @handles.
+
+**FEATURES**
+
+```text
+[✓] Server-authoritative 5-minute matchmaking timer
+[✓] Zero-login, zero-identity anonymous chat core
+[✓] Profanity / obfuscation moderation + rate limiting
+[✓] Report, block, and leave controls
+[✓] Mutual opt-in friend system
+[✓] Save Chat (client-side .txt export)
+[✓] Social feed — photo posts, likes, comments, follow/unfollow
+[✓] Google + email auth (Supabase)
+[✓] @handle system with live availability checks
+[✓] Light / dark theme, custom SVG icon set
+```
+
+**STACK**
+
+`React` `Vite` `Node.js` `Express` `Socket.IO` `Supabase` `Cloudinary`
+
+🌐 **Live:** https://5minchat.online  
+📂 **Repository:** *(add your repo link here)*
+
+<details>
+<summary><b>▸ architecture</b></summary>
+
+```text
+┌─────────────┐      ┌──────────────────┐      ┌───────────────┐
+│   Vercel     │◄────►│  Render (Node.js  │◄────►│   Supabase    │
+│  React/Vite  │      │  Express+Socket.IO)│      │  DB + Auth    │
+└─────────────┘      └──────────────────┘      └───────────────┘
+                                                        │
+                                                  ┌───────────┐
+                                                  │ Cloudinary │
+                                                  │  (images)  │
+                                                  └───────────┘
+```
+
+</details>
+
+---
+
+## `> cat learning.log`
+
+```text
+[+] Machine Learning
+[+] Artificial Intelligence
+[+] Advanced Python
+[+] Backend Architecture
+[+] Full-Stack Development
+[+] Data Analysis
+[+] ML Research
+```
+
+---
+
+## `> ./developer_journey`
+
+```text
+                 ┌──────────────┐
+                 │  PROGRAMMING │
+                 └──────┬───────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+       Python          Java      JavaScript
+          │             │        / TypeScript
+          └─────────────┼─────────────┘
+                        ▼
+               ┌─────────────────┐
+               │ WEB DEVELOPMENT │
+               └────────┬────────┘
+                        │
+                  React / Vite
+                        │
+                        ▼
+               ┌─────────────────┐
+               │ BACKEND SYSTEMS │
+               └────────┬────────┘
+                        │
+          Express / Socket.IO / Supabase
+                        │
+                        ▼
+               ┌─────────────────┐
+               │    AI / ML      │
+               └─────────────────┘
+```
+
+---
+
+## `> ./current_status`
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  [ ONLINE ]  LEARNING                        │
+│  [ ONLINE ]  BUILDING 5MINCHAT               │
+│  [ ONLINE ]  EXPERIMENTING                   │
+│  [ ONLINE ]  SOLVING PROBLEMS                │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## `> cat objective.txt`
+
+```text
+Build intelligent software.
+Learn continuously.
+Write better code.
+Solve real-world problems.
+```
+
+> **BUILD. BREAK. DEBUG. REPEAT.**
+
+---
+
+## `> connect --all`
+
+```text
+EMAIL      → james.2007jjb@gmail.com
+LINKEDIN   → james-benjamin-j-247b34315
+INSTAGRAM  → @trix_7_
+PROJECT    → 5minchat.online
+GITHUB     → jamesBenjamin-2007
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-james.2007jjb%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:james.2007jjb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/james-benjamin-j-247b34315)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%40trix__7__-00FF00?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/trix_7_/)
+[![5minchat](https://img.shields.io/badge/TRY_IT-5minchat.online-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://5minchat.online)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> SYSTEM MESSAGE
+
+KEEP LEARNING.
+KEEP BUILDING.
+KEEP DEBUGGING.
+
+[ CODE ] [ COMMIT ] [ REPEAT ]
+```
+
+⭐ **Star [5minchat](https://5minchat.online) if you like the idea — feedback welcome.**
+
+### `> TERMINAL SESSION CLOSED_`
+
+</div>
