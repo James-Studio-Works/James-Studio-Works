@@ -2,31 +2,32 @@
 
 # `> JAMES_BENJAMIN.exe`
 
-### <code>ML & BACKEND DEVELOPER</code>
+### `ML • BACKEND • FULL-STACK DEVELOPER`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami+%3D+james_benjamin;status+%3D+BUILDING+5MINCHAT;mode+%3D+LEARNING+%2F+CODING+%2F+DEBUGGING;stack+%3D+MERN+%2B+SOCKET.IO)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=whoami+%3D+james_benjamin;status+%3D+BUILDING+5MINCHAT;mode+%3D+LEARNING+%2F+CODING+%2F+DEBUGGING;focus+%3D+AI+%2B+ML+%2B+BACKEND+%2B+FULL+STACK" />
+
+<br/>
 
 ```text
- ███████████████████████████████████████████████████████████
- █  SYSTEM ONLINE                                            █
- █  USER    : jamesBenjamin-2007                            █
- █  MODE    : BUILDING                                      █
- █  FOCUS   : AI • ML • BACKEND • FULL STACK                █
- █  STATUS  : LEARNING / CODING / DEBUGGING                █
- ███████████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════╗
+║                    SYSTEM ONLINE                     ║
+╠══════════════════════════════════════════════════════╣
+║ USER    : jamesBenjamin-2007                         ║
+║ MODE    : BUILDING                                   ║
+║ FOCUS   : AI • ML • BACKEND • FULL STACK             ║
+║ STATUS  : LEARNING • CODING • DEBUGGING              ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-`[ ACCESS GRANTED ]`  `>_`  `[ DEVELOPER MODE ]`
-
-[![Portfolio](https://img.shields.io/badge/PROJECT-5minchat-00FF00?style=for-the-badge&logo=socketdotio&logoColor=black)](https://5minchat.online)
-[![GitHub followers](https://img.shields.io/github/followers/jamesBenjamin-2007?style=for-the-badge&color=00FF00&labelColor=000000)](https://github.com/jamesBenjamin-2007)
-[![Profile Views](https://komarev.com/ghpvc/?username=jamesBenjamin-2007&style=for-the-badge&color=00FF00&label=VISITORS)](https://github.com/jamesBenjamin-2007)
+[![Project](https://img.shields.io/badge/PROJECT-5minchat-00FF00?style=for-the-badge\&logo=socketdotio\&logoColor=black)](https://5minchat.online)
+[![GitHub Followers](https://img.shields.io/github/followers/jamesBenjamin-2007?style=for-the-badge\&color=00FF00\&labelColor=000000)](https://github.com/jamesBenjamin-2007)
+[![Profile Views](https://komarev.com/ghpvc/?username=jamesBenjamin-2007\&style=for-the-badge\&color=00FF00\&label=VISITORS)](https://github.com/jamesBenjamin-2007)
 
 </div>
 
 ---
 
-## `> whoami`
+# `> whoami`
 
 ```bash
 $ whoami
@@ -34,122 +35,135 @@ $ whoami
 james_benjamin
 
 $ cat profile.txt
-
-ROLE     = ML & Backend Developer
-INTEREST = Machine Learning / AI / Backend / Full Stack
-MINDSET  = Learn -> Build -> Debug -> Repeat
-MISSION  = Build software that solves real problems
 ```
 
-> `Code is not just what I do. It's how I think.`
+```text
+ROLE      = ML & Backend Developer
+INTEREST  = Machine Learning / AI / Backend / Full Stack
+MINDSET   = Learn -> Build -> Debug -> Repeat
+MISSION   = Build software that solves real problems
+```
+
+> **"Code is not just what I do. It's how I think."**
 
 ---
 
-## `> ls ./skills`
+# `> ls ./skills`
 
-<details>
-<summary><b>▸ click to expand skill tree</b></summary>
+### 💻 Languages
 
-```text
-┌── LANGUAGES
-│   ├── Python
-│   ├── Java
-│   ├── JavaScript
-│   ├── TypeScript
-│   └── SQL
-│
-├── AI / MACHINE LEARNING
-│   ├── Machine Learning
-│   ├── Pandas
-│   ├── NumPy
-│   └── Scikit-learn
-│
-├── WEB
-│   ├── HTML
-│   ├── CSS
-│   ├── React
-│   ├── Vite
-│   └── Tailwind CSS
-│
-├── BACKEND
-│   ├── Node.js
-│   ├── Express
-│   ├── REST APIs
-│   ├── Socket.IO
-│   ├── Supabase
-│   └── PostgreSQL
-│
-└── TOOLS
-    ├── Git
-    ├── GitHub
-    ├── VS Code
-    ├── Render
-    ├── Vercel
-    └── Cloudinary
-```
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql" />
+</p>
 
-</details>
+### 🤖 AI & Machine Learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesBenjamin-2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Machine Learning` • `Pandas` • `NumPy` • `Scikit-learn`
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres" />
+</p>
+
+`REST APIs` • `Socket.IO` • `Authentication` • `Real-time Systems`
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudinary" />
+</p>
+
+`Render` • `GitHub`
 
 ---
 
-## `> ./projects`
+# `> ./projects`
 
-### `01` ⏱️ `5minchat`
+## `01` ⏱️ 5minchat
 
 ```text
-PROJECT     : 5minchat
-TYPE        : Anonymous timed chat platform
-STATUS      : LIVE
+PROJECT  : 5minchat
+TYPE     : Anonymous Timed Chat Platform
+STATUS   : LIVE 🟢
 ```
 
-Talk to a stranger for exactly 5 minutes — no profiles, no history, no persistent
-identity. Built around a server-authoritative matchmaking engine and timer, layered
-with a full social platform: posts, follows, comments, and Instagram-style @handles.
+> **Talk to a stranger for exactly 5 minutes.**
 
-**FEATURES**
+No profiles. No history. No permanent identity during the anonymous chat.
+
+Built around a **server-authoritative matchmaking system and timer**, with additional social platform features.
+
+### `FEATURES`
 
 ```text
 [✓] Server-authoritative 5-minute matchmaking timer
-[✓] Zero-login, zero-identity anonymous chat core
-[✓] Profanity / obfuscation moderation + rate limiting
-[✓] Report, block, and leave controls
+[✓] Anonymous chat experience
+[✓] Profanity & obfuscation moderation
+[✓] Rate limiting
+[✓] Report, block & leave controls
 [✓] Mutual opt-in friend system
-[✓] Save Chat (client-side .txt export)
-[✓] Social feed — photo posts, likes, comments, follow/unfollow
-[✓] Google + email auth (Supabase)
-[✓] @handle system with live availability checks
-[✓] Light / dark theme, custom SVG icon set
+[✓] Save Chat (.txt export)
+[✓] Social feed
+[✓] Photo posts, likes & comments
+[✓] Follow / unfollow system
+[✓] Google & email authentication
+[✓] @Handle system with availability checks
+[✓] Light / dark mode
 ```
 
-**STACK**
+### `TECH STACK`
 
-`React` `Vite` `Node.js` `Express` `Socket.IO` `Supabase` `Cloudinary`
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,supabase,postgres" />
+</p>
 
-🌐 **Live:** https://5minchat.online  
-📂 **Repository:** *(add your repo link here)*
+`Socket.IO` • `Cloudinary`
 
-<details>
-<summary><b>▸ architecture</b></summary>
+### 🌐 Live Project
 
-```text
-┌─────────────┐      ┌──────────────────┐      ┌───────────────┐
-│   Vercel     │◄────►│  Render (Node.js  │◄────►│   Supabase    │
-│  React/Vite  │      │  Express+Socket.IO)│      │  DB + Auth    │
-└─────────────┘      └──────────────────┘      └───────────────┘
-                                                        │
-                                                  ┌───────────┐
-                                                  │ Cloudinary │
-                                                  │  (images)  │
-                                                  └───────────┘
-```
-
-</details>
+[![Visit 5minchat](https://img.shields.io/badge/TRY%20IT-5minchat.online-00FF00?style=for-the-badge\&logo=googlechrome\&logoColor=black)](https://5minchat.online)
 
 ---
 
-## `> cat learning.log`
+# `> ./architecture`
+
+```text
+        ┌───────────────┐
+        │    FRONTEND   │
+        │ React + Vite  │
+        │    Vercel     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    BACKEND    │
+        │ Node + Express│
+        │   Socket.IO   │
+        │    Render     │
+        └───────┬───────┘
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+┌───────────────┐  ┌───────────────┐
+│   SUPABASE    │  │  CLOUDINARY   │
+│ DB + Auth     │  │    Images     │
+└───────────────┘  └───────────────┘
+```
+
+---
+
+# `> cat learning.log`
 
 ```text
 [+] Machine Learning
@@ -163,56 +177,57 @@ with a full social platform: posts, follows, comments, and Instagram-style @hand
 
 ---
 
-## `> ./developer_journey`
+# `> ./developer_journey`
 
 ```text
-                 ┌──────────────┐
-                 │  PROGRAMMING │
-                 └──────┬───────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-       Python          Java      JavaScript
-          │             │        / TypeScript
-          └─────────────┼─────────────┘
-                        ▼
-               ┌─────────────────┐
-               │ WEB DEVELOPMENT │
-               └────────┬────────┘
-                        │
-                  React / Vite
-                        │
-                        ▼
-               ┌─────────────────┐
-               │ BACKEND SYSTEMS │
-               └────────┬────────┘
-                        │
-          Express / Socket.IO / Supabase
-                        │
-                        ▼
-               ┌─────────────────┐
-               │    AI / ML      │
-               └─────────────────┘
+PROGRAMMING
+     │
+     ├── Python
+     ├── Java
+     ├── JavaScript
+     └── TypeScript
+           │
+           ▼
+WEB DEVELOPMENT
+     │
+     ├── React
+     ├── Vite
+     └── Modern Web Development
+           │
+           ▼
+BACKEND SYSTEMS
+     │
+     ├── Node.js
+     ├── Express
+     ├── Socket.IO
+     └── Supabase
+           │
+           ▼
+AI & MACHINE LEARNING
+     │
+     ├── Machine Learning
+     ├── Data Analysis
+     └── AI Research
 ```
 
 ---
 
-## `> ./current_status`
+# `> ./current_status`
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  [ ONLINE ]  LEARNING                        │
-│  [ ONLINE ]  BUILDING 5MINCHAT               │
-│  [ ONLINE ]  EXPERIMENTING                   │
-│  [ ONLINE ]  SOLVING PROBLEMS                │
-│                                               │
-└───────────────────────────────────────────────┘
+╔════════════════════════════════════════════╗
+║                                            ║
+║ 🟢 ONLINE   → LEARNING                     ║
+║ 🟢 ONLINE   → BUILDING 5MINCHAT            ║
+║ 🟢 ONLINE   → EXPERIMENTING                ║
+║ 🟢 ONLINE   → SOLVING PROBLEMS             ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> cat objective.txt`
+# `> cat objective.txt`
 
 ```text
 Build intelligent software.
@@ -221,26 +236,21 @@ Write better code.
 Solve real-world problems.
 ```
 
-> **BUILD. BREAK. DEBUG. REPEAT.**
+> ## **BUILD. BREAK. DEBUG. REPEAT.**
 
 ---
 
-## `> connect --all`
-
-```text
-EMAIL      → james.2007jjb@gmail.com
-LINKEDIN   → james-benjamin-j-247b34315
-INSTAGRAM  → @trix_7_
-PROJECT    → 5minchat.online
-GITHUB     → jamesBenjamin-2007
-```
+# `> connect --all`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-james.2007jjb%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:james.2007jjb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/james-benjamin-j-247b34315)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%40trix__7__-00FF00?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/trix_7_/)
-[![5minchat](https://img.shields.io/badge/TRY_IT-5minchat.online-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://5minchat.online)
+[![Email](https://img.shields.io/badge/EMAIL-Contact_Me-00FF00?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:james.2007jjb@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FF00?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/james-benjamin-j-247b34315)
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-00FF00?style=for-the-badge\&logo=instagram\&logoColor=black)](https://www.instagram.com/trix_7_/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-jamesBenjamin--2007-00FF00?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/jamesBenjamin-2007)
 
 </div>
 
@@ -255,11 +265,11 @@ KEEP LEARNING.
 KEEP BUILDING.
 KEEP DEBUGGING.
 
-[ CODE ] [ COMMIT ] [ REPEAT ]
+[ CODE ] → [ COMMIT ] → [ REPEAT ]
 ```
 
-⭐ **Star [5minchat](https://5minchat.online) if you like the idea — feedback welcome.**
-
 ### `> TERMINAL SESSION CLOSED_`
+
+⭐ **If you like what I'm building, feel free to explore my projects and connect.**
 
 </div>
